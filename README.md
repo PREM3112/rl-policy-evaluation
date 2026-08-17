@@ -11,7 +11,8 @@ The environment has a maximum capacity of 20 cars at each location and a maximum
 ## POLICY EVALUATION FUNCTION
 To evaluate a policy $\pi$, we use the Bellman Expectation Equation for the state-value function $V(s)$. The algorithm iteratively updates the value of each state until the changes fall below a small threshold $\theta$.
 
-![alt text](./images/image.png)
+<img width="527" height="100" alt="image" src="https://github.com/user-attachments/assets/36bcf045-c45c-4179-8cf8-2e68d828a0ba" />
+
 
 ## OUTPUT:
 
